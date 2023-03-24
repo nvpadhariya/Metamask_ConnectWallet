@@ -15,7 +15,3 @@ To run this project connecting to a local chain download Ganache utilize chain I
 Otherwise in order to show the Account info you'll need to connect the app to a valid Account on the chain ID you are choosing inside the component/wallet/connector.js file.
 
 To test with a Testnet please visit Infura: [Infura.io](https://infura.io/) and drop your endpoint into the Web3 Provider
-
----
-
-![Image of Project](/public/images/screen_recording.gif)
